@@ -1,0 +1,24 @@
+# Site settings
+# title:
+# email:
+# description: > # this means to ignore newlines until "baseurl:"
+# baseurl: "students-test/" # the subpath of your site, e.g. /blog/
+# url: "" # the base hostname & protocol for your site
+
+twitter_username: yourname
+github_username: derwalliserinluzaeru
+title: Gen CompGraph
+subtitle: I.BA_222_GENCG.H1901 - Winter 2019
+
+# # Build settings
+# markdown: kramdown
+
+collections:
+  01-Shapes:
+    output: true
+    
+  02-Noise:
+    output: true
+
+  03-Lift:
+    output: true
