@@ -22,3 +22,4 @@ collections:
 
   03-Lift:
     output: true
+theme: jekyll-theme-minimal
